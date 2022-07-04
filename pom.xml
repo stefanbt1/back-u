@@ -14,7 +14,7 @@
     <name>UIKT_EShop</name>
     <description>UIKT_EShop</description>
     <properties>
-        <java.version>8</java.version>
+        <java.version>18</java.version>
         <repackage.classifier/>
         <spring-native.version>0.11.3</spring-native.version>
     </properties>
